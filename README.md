@@ -28,7 +28,7 @@ This tutorial outlines the process of assigning Authentication methods to user a
 
 </p>
 <p>
-Assigned phone number as Authentication method for user Chris Walker.
+Assigned phone number as Authentication method for user Jordan Lee.
 </p>
 <br />
 
@@ -41,6 +41,6 @@ Assigned phone number as Authentication method for user Chris Walker.
 
 </p>
 <p>
-Assigned phone number as Authentication method for user Jordan Lee.
+Assigned phone number as Authentication method for user Bruce Wayne.
 </p>
 <br />
